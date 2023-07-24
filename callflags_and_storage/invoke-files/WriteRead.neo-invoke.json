@@ -1,0 +1,10 @@
+[
+  {
+    "contract": "Example.CallFlags",
+    "operation": "writeTest"
+  },
+  {
+    "contract": "Example.CallFlags",
+    "operation": "readTest"
+  }
+]

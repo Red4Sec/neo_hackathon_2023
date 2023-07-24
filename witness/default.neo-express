@@ -1,0 +1,42 @@
+{
+  "magic": 514462531,
+  "address-version": 53,
+  "consensus-nodes": [
+    {
+      "tcp-port": 50013,
+      "ws-port": 50014,
+      "rpc-port": 50012,
+      "wallet": {
+        "name": "node1",
+        "accounts": [
+          {
+            "private-key": "3ab6cfac140b3d8e9e4c1e59f9ceb44d5b2e1a06c604dcfc4aa02ae7d40343f5",
+            "script-hash": "NRMtoZxk6JUQ3Dmo7tJ28fcjrUVKXV4N3F",
+            "label": null,
+            "is-default": true,
+            "contract": {
+              "script": "0c21036bf11e6ddd2a0210f775f4c7f5dc4d9cf8ee4d04f1c70c9e0ac4237627bfa1af4156e7b327",
+              "parameters": [
+                "Signature"
+              ]
+            }
+          },
+          {
+            "private-key": "3ab6cfac140b3d8e9e4c1e59f9ceb44d5b2e1a06c604dcfc4aa02ae7d40343f5",
+            "script-hash": "NhpJH724szPAhuSWGp6CLdgJG5VZSx3N4e",
+            "label": "Consensus MultiSigContract",
+            "is-default": false,
+            "contract": {
+              "script": "110c21036bf11e6ddd2a0210f775f4c7f5dc4d9cf8ee4d04f1c70c9e0ac4237627bfa1af11419ed0dc3a",
+              "parameters": [
+                "Signature"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "wallets": [],
+  "settings": {}
+}

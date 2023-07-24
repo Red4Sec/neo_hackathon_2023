@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "exampleContract/1.0.0": {
+        "dependencies": {
+          "Neo.BuildTasks": "3.5.17",
+          "Neo.SmartContract.Framework": "3.5.0"
+        },
+        "runtime": {
+          "exampleContract.dll": {}
+        }
+      },
+      "Neo.BuildTasks/3.5.17": {},
+      "Neo.SmartContract.Framework/3.5.0": {
+        "runtime": {
+          "lib/net6.0/Neo.SmartContract.Framework.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "3.5.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exampleContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Neo.BuildTasks/3.5.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1sI7Zo04gxFP84to0EFV+5PpqkXn85q8kpkgBtSQTtHn7EoDMpceXy4KeF26MGNJQkPRfNU5xFr4mV82YjQ0Qw==",
+      "path": "neo.buildtasks/3.5.17",
+      "hashPath": "neo.buildtasks.3.5.17.nupkg.sha512"
+    },
+    "Neo.SmartContract.Framework/3.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0El487Oss1IT8HgFKZnwqcFqrv5cHz2+whDNE5x/6ToQiSDZKuzKSwusPe3uSQ2rEPFxa1164r7ELXHpKD5seA==",
+      "path": "neo.smartcontract.framework/3.5.0",
+      "hashPath": "neo.smartcontract.framework.3.5.0.nupkg.sha512"
+    }
+  }
+}

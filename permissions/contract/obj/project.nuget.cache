@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k19ERONbtgWWjf+fMyA5CI8aWxV4TxpFnVpUo2sADsyMq+R3MVP7mrht+3yME2SKogutjZsBsKWPaCKRP0aoUg==",
+  "success": true,
+  "projectFilePath": "C:\\Red4Sec\\neo_hackathon_2023\\permissions\\contract\\exampleContract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fernando\\.nuget\\packages\\neo.buildtasks\\3.5.17\\neo.buildtasks.3.5.17.nupkg.sha512",
+    "C:\\Users\\Fernando\\.nuget\\packages\\neo.smartcontract.framework\\3.5.0\\neo.smartcontract.framework.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

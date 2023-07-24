@@ -1,0 +1,29 @@
+{
+  "name": "testwallet",
+  "version": "1.0",
+  "scrypt": {
+    "n": 16384,
+    "r": 8,
+    "p": 8,
+    "size": 64
+  },
+  "accounts": [
+    {
+      "address": "Ni3paCoTtTpCEysVhv59UwcUi99aYvaKKr",
+      "label": "Default account",
+      "isDefault": true,
+      "lock": false,
+      "key": "6PYTjuZFRtVZytpHzPt5SCHwSSq7wYD98PCLNsE23ZFtyX8SroAdRvS18n",
+      "contract": {
+        "script": "DCECW08v08MzyHcBuoHv8L98MKlQfGIBrVmVaZWPSvHsbspBVuezJw==",
+        "parameters": [
+          {
+            "name": "signature",
+            "type": "Signature"
+          }
+        ],
+        "deployed": false
+      }
+    }
+  ]
+}

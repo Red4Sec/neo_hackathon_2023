@@ -1,0 +1,16 @@
+[
+  {
+    "contract": "Example.Witness",
+    "operation": "checkWitness",
+    "args": [
+      "@genesis"
+    ]
+  },
+  {
+    "contract": "Example.Witness",
+    "operation": "checkWitness",
+    "args": [
+      "#NeoToken"
+    ]
+  }
+]

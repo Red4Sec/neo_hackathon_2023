@@ -1,0 +1,9 @@
+[
+  {
+    "contract": "Example.Witness",
+    "operation": "checkWitnessWithCall",
+    "args": [
+      "@genesis"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "contract": "Example.CallFlags",
+    "operation": "writeTestWithReadOnlyContext"
+  }
+]

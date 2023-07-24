@@ -1,0 +1,10 @@
+[
+  {
+    "contract": "Example.CallFlags",
+    "operation": "callMe",
+    "args": [
+      "readTest",
+      1
+    ]
+  }
+]

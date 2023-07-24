@@ -1,0 +1,16 @@
+[
+  {
+    "contract": "Example.Permissions",
+    "operation": "externalCallPing",
+    "args": [
+      1
+    ]
+  },
+  {
+    "contract": "Example.Permissions",
+    "operation": "externalCallPing",
+    "args": [
+      2
+    ]
+  }
+]
